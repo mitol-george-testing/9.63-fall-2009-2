@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Sensory-Neural Systems"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "37a963aa-6b4d-809b-57fd-f625f8936c81"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Laboratory in Visual Cognition",
+  "course_description": "9.63 teaches principles of experimental methods in human perception and cognition, including design and statistical analysis. The course combines lectures and hands-on experimental exercises and requires an independent experimental project. Some experience in programming is desirable. To foster improved writing and presentation skills in conducting and critiquing research in cognitive science, students are required to provide reports and give oral presentations of three team experiments. A fourth individually conducted experiment includes a proposal with revision, and concluding written and oral reports.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.63",
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
